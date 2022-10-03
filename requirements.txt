@@ -8,5 +8,5 @@ uvicorn
 gunicorn==19.9.0
 uvloop
 httptools
-tensorflow==1.8
+tensorflow
 keras
